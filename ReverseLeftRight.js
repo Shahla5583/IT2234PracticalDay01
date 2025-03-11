@@ -12,7 +12,7 @@ let mid = parseInt(num/2) + 1;
 		
 		console.log(mid);
 		
-		for(let j=num;j>=mid;j--)
+		for(let j=num;j>mid;j--)
 		{
 			console.log(j);
 		}
