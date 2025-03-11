@@ -8,9 +8,11 @@ Print numbers from 1 to 10
 Print odd numbers from 1 to 10
 ![image](https://github.com/user-attachments/assets/bb762b8e-43e2-4a4a-8027-7d605ef4f0d9)
 Print numbers from 1 to 10 in reverse order
-![image](https://github.com/user-attachments/assets/07741b8e-2bed-4c85-a570-8cdf76905cb3)
+![image](https://github.com/user-attachments/assets/b1dc7920-59da-48ae-87b6-f95bdfafb56d)
 Reverse the numbers in left and right 4321-5-9876
-![image](https://github.com/user-attachments/assets/d7e751a2-864a-4ccb-951f-d32d0a225115)
+![image](https://github.com/user-attachments/assets/735bfbf3-8dff-4eeb-bb76-f56e78a974d3)
+
+
 
 
 
