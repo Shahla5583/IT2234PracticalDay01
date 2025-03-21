@@ -1,50 +1,26 @@
-1.Print the element in Array
+1.Basic functions
 
-![image](https://github.com/user-attachments/assets/acf3e780-13eb-48b7-8580-53fab8ba4d23)
+![image](https://github.com/user-attachments/assets/21a15537-b132-460e-a9b9-501770f1ba60)
 
-2.Find the max element in array
-![image](https://github.com/user-attachments/assets/ea7d3af3-df08-491b-b85d-ed9af8dd198a)
+2.Check the number is Prime Number or not
 
-3.Nested Array
-![image](https://github.com/user-attachments/assets/eb008c66-032d-44a9-8b82-73e456669ec5)
+![image](https://github.com/user-attachments/assets/ad8af693-6680-45e0-a7d3-ff040dedaa44)
 
-4.Find the common element in the array
-![image](https://github.com/user-attachments/assets/c0ed614a-8b3b-4945-ba5f-da7ac88cfcf4)
+3.Print the numbers using recursive function
 
-5.Write a code find the all paires that sum up to the target
-![image](https://github.com/user-attachments/assets/9ac6083e-ce0e-4f7e-a7e5-4ec9fe2b518d)
+![image](https://github.com/user-attachments/assets/88a7b292-0998-4c5e-8256-ad213e14ddd9)
 
-6.Find the most frequent element in the array
-![image](https://github.com/user-attachments/assets/44030b58-fdc3-48c9-bf41-af49d743085d)
+4.Arrow Function
 
-7.Array operation
-![image](https://github.com/user-attachments/assets/ea6e3be7-af56-464c-bb3e-df1703f4baef)
+![image](https://github.com/user-attachments/assets/181f7360-d974-424b-8015-7a80670a9377)
 
-8.JASON Object
-![image](https://github.com/user-attachments/assets/5edc161a-3807-4898-a8e6-cb2c1be2f589)
+5.Rest Parameter
 
-9. Define 10 students JSON
-	 store it in an array
-	 find the female students
-	 find the students who are following it course
-	 find the max and average GPA among the students
+![image](https://github.com/user-attachments/assets/8eb78653-9b4b-4a9b-b5b7-64fbe529ea8b)
 
-	![image](https://github.com/user-attachments/assets/a73f9f89-de52-45a4-9a73-3b5023289944)
-  ![image](https://github.com/user-attachments/assets/c21b19af-e250-40b6-a657-c220e07661d8)
-  ![image](https://github.com/user-attachments/assets/4775beb3-faba-451f-9d7f-9b50e64d8712)
+6.Call Back function
 
-
-
-	 
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/16b1ce20-c6db-4b0b-a839-9c55d9f7280e)
 
 
 
