@@ -1,10 +1,10 @@
 Day-04 IT2234 Practical Day 04 - 20/03/2025
 
 INTRODUCTION TO NODE.JS
-
 BASIC HTTP SERVER USING NODE.JS
 
 1. Run the server.js
+
 ![image](https://github.com/user-attachments/assets/ff73c0c7-708c-4cbb-941c-df649d05e6a8)
 
 
