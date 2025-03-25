@@ -1,26 +1,23 @@
-1.Basic functions
+Day-04 IT2234 Practical Day 04 - 20/03/2025
 
-![image](https://github.com/user-attachments/assets/21a15537-b132-460e-a9b9-501770f1ba60)
+INTRODUCTION TO NODE.JS
+BASIC HTTP SERVER USING NODE.JS
 
-2.Check the number is Prime Number or not
+1. Run the server.js
 
-![image](https://github.com/user-attachments/assets/ad8af693-6680-45e0-a7d3-ff040dedaa44)
+![image](https://github.com/user-attachments/assets/ff73c0c7-708c-4cbb-941c-df649d05e6a8)
 
-3.Print the numbers using recursive function
 
-![image](https://github.com/user-attachments/assets/88a7b292-0998-4c5e-8256-ad213e14ddd9)
+2.create a myapp folder 
+3..In myapp cmd
 
-4.Arrow Function
+![image](https://github.com/user-attachments/assets/2e9b9eeb-ae9e-4794-8627-c4c9b7230f67)
+![image](https://github.com/user-attachments/assets/781588c3-2391-4014-8959-ab12cf612773)
 
-![image](https://github.com/user-attachments/assets/181f7360-d974-424b-8015-7a80670a9377)
+4.create a app.js 
+5..run app.js
 
-5.Rest Parameter
-
-![image](https://github.com/user-attachments/assets/8eb78653-9b4b-4a9b-b5b7-64fbe529ea8b)
-
-6.Call Back function
-
-![image](https://github.com/user-attachments/assets/16b1ce20-c6db-4b0b-a839-9c55d9f7280e)
+![image](https://github.com/user-attachments/assets/c47b3a92-280b-4d3a-82ac-17a872c5920e)
 
 
 
