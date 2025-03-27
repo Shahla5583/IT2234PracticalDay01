@@ -1,24 +1,25 @@
-Day-04 IT2234 Practical Day 04 - 20/03/2025
+IT2234 Practical DAY_05 - 24/03/2025 Retrieving data in a JSON array using POSTMAN
 
-INTRODUCTION TO NODE.JS
-BASIC HTTP SERVER USING NODE.JS
-
-1. Run the server.js
-
-![image](https://github.com/user-attachments/assets/ff73c0c7-708c-4cbb-941c-df649d05e6a8)
+1.Display All Details
+![image](https://github.com/user-attachments/assets/41f4af77-7998-43dc-96cb-34f56e4803ea)
 
 
-2.create a myapp folder 
-3..In myapp cmd
+2.Seacrh students by ID
 
-![image](https://github.com/user-attachments/assets/2e9b9eeb-ae9e-4794-8627-c4c9b7230f67)
-![image](https://github.com/user-attachments/assets/781588c3-2391-4014-8959-ab12cf612773)
+![image](https://github.com/user-attachments/assets/0a10f036-b34c-4def-9a3f-9f0f65a3a56a)
 
-4.create a app.js 
-5..run app.js
 
-![image](https://github.com/user-attachments/assets/c47b3a92-280b-4d3a-82ac-17a872c5920e)
 
+3.Search student by gender
+
+![image](https://github.com/user-attachments/assets/5da8d2e3-c584-443d-b72a-ad74c22d61f7)
+
+
+
+
+4.Search student by name
+
+![image](https://github.com/user-attachments/assets/1842f561-ff74-49af-b82d-9dc67957b2ba)
 
 
 
