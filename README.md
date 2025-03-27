@@ -1,20 +1,26 @@
 IT2234 Practical DAY_05 - 24/03/2025 Retrieving data in a JSON array using POSTMAN
 
 1.Display All Details
+![image](https://github.com/user-attachments/assets/41f4af77-7998-43dc-96cb-34f56e4803ea)
 
-https://github.com/user-attachments/assets/ceace2cb-c8e9-4c4a-ae4d-87c40cd0f413
 
 2.Seacrh students by ID
 
-https://github.com/user-attachments/assets/17bb2712-6c1b-47fd-b234-a49978d96510
+![image](https://github.com/user-attachments/assets/0a10f036-b34c-4def-9a3f-9f0f65a3a56a)
+
 
 
 3.Search student by gender
 
-https://github.com/user-attachments/assets/72db6b0b-b0e6-4323-9bbf-99e4eb399708
+![image](https://github.com/user-attachments/assets/5da8d2e3-c584-443d-b72a-ad74c22d61f7)
+
+
 
 
 4.Search student by name
 
-https://github.com/user-attachments/assets/eb09c07a-2069-49cc-a826-1386122f8d3b
+![image](https://github.com/user-attachments/assets/1842f561-ff74-49af-b82d-9dc67957b2ba)
+
+
+
 
