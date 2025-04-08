@@ -41,7 +41,7 @@
 
 
 
-![Uploading image.png…]()
+
 
 
 
