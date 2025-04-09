@@ -3,6 +3,8 @@
 
 
 -------------------How to work these--------------
+
+
 index.js: The main entry point of the application where the Express server is set up and routes are registered.
 
 user folder: Contains files related to user management.
