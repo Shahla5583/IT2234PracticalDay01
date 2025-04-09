@@ -1,12 +1,19 @@
+
+
 const express = require('express');
-const app =express();
+const app = express();
 const port = 3001;
 
-const studentRoute=require('./student/studentroute')
+// Import routes
+const userRoute = require('./user/userroute');
+const commentRoute = require('./comment/commentroute');  // Path corrected here
 
-app.use(express.json())
-app.use('/student',studentRoute)
+app.use(express.json());
 
-app.listen(port,()=>{
-    console.log(`Server is running on:${port}`);
+// Use the routes
+app.use('/user', userRoute);
+app.use('/comments', commentRoute);  // Path to comment route
+
+app.listen(port, () => {
+    console.log(`Server is running on: http://localhost:${port}`);
 });
