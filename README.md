@@ -19,12 +19,12 @@ Insert document-Using Compass
 
 ![image](https://github.com/user-attachments/assets/3cb2589d-a5fb-49ef-a769-6f697e481f5e)
 
-Insert document-Using Console ------->         "insetOne"
+Insert document-Using Console ------->         "insertOne"
 
 ![image](https://github.com/user-attachments/assets/34dc4e4a-b851-4797-8d9e-6a94a0e03e9c)
 
 
-Insert document-Using Console ------->         "insertmany"
+Insert document-Using Console ------->         "insertMany"
 
 ![image](https://github.com/user-attachments/assets/fc9749be-f967-4e24-ba32-0d4050ff8239)
 
@@ -54,18 +54,18 @@ Retrieve documents  using specific value
 
 ![image](https://github.com/user-attachments/assets/2b2b1c08-09db-481d-b22b-4322423df821)
 
-
+2.Shows documents those are female.
 
 ![image](https://github.com/user-attachments/assets/d3ed2612-0d52-48f6-a3c6-f2b0d867458e)
 
 Retrieve documents  using specific value------>     using console
 
 
-1.Shows documents those are female .
+1.Shows documents those are male .
 
 ![image](https://github.com/user-attachments/assets/d1ac9ba5-6512-46b8-8aae-aaf7a1094fee)
 
-2.Shows documents those are female-------->    "findOne"
+2.Shows documents those are male-------->    "findOne"
 
 ![image](https://github.com/user-attachments/assets/fb08d803-c730-4d5b-bfc1-3694efffa3ab)
 
@@ -80,7 +80,7 @@ Sort in descending order
 
 ![image](https://github.com/user-attachments/assets/911eb70d-148e-4bb5-87e0-6abe3fb6c7de)
 
-Find the details with comparision
+Find the documents with comparision
 
 1.Finds people with age greater than 25
 
@@ -96,7 +96,7 @@ Find the details with comparision
 ![image](https://github.com/user-attachments/assets/3ce88dfe-67c2-418a-bec7-85d6f29eba95)
 
 
-Find  the  details using $in,$nin
+Find  the  documents  using $in,$nin
 
 1.Finds those with "NoSql" in skills.
 
@@ -118,7 +118,7 @@ Find  the  details using $in,$nin
 ![image](https://github.com/user-attachments/assets/7dce2f18-e028-4637-8a66-34e27fa34e14)
 
 
-Sort in ascending Order ----->using console
+Sort in descending Order ----->using console
 
 
 ![image](https://github.com/user-attachments/assets/caeaae56-9802-4127-a553-2d071394f224)
