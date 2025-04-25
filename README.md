@@ -122,6 +122,10 @@ find who are the females and follow csc degree ,sort their age in descending ord
 ![image](https://github.com/user-attachments/assets/8bb738d5-26cc-42ac-bf80-5e741d085787)
 
 
+greater than in console
+![image](https://github.com/user-attachments/assets/7ea5ebed-3e59-4af1-8980-119aae7dae15)
+
+
 
 
 
