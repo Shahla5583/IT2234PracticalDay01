@@ -98,7 +98,7 @@ Find the documents with comparision
 
 Find  the  documents  using $in,$nin
 
-1.Finds those with "NoSql" in skills.
+1.Finds those with "NoSql" skills.
 
 
 ![image](https://github.com/user-attachments/assets/01de8d6e-c2a6-4a12-8a04-7132256c19b1)
@@ -127,12 +127,12 @@ Sort in descending Order ----->using console
 ![image](https://github.com/user-attachments/assets/02b60e34-fa3d-4704-b564-dcb57cda6452)
 
 
-Find who follow csc dgree,sort  gpa in descending order
+Find who follow csc dgree,sort their  gpa in ascending order
 
 ![image](https://github.com/user-attachments/assets/eea4a2d0-2c5b-4c9a-aa72-2f471648631d)
 
 
-Find CSC male students, sort by age descending.
+Find CSC male students, sort their  age in descending.
 
 
 ![image](https://github.com/user-attachments/assets/8bb738d5-26cc-42ac-bf80-5e741d085787)
