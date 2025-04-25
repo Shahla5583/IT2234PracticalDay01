@@ -12,49 +12,60 @@ show collections
 
 ![image](https://github.com/user-attachments/assets/b7832a50-c81a-493b-b427-0445dfa92747)
 
-Insert document
+Insert document-Using Compass
+
 ![image](https://github.com/user-attachments/assets/27398cf9-42f7-4835-8325-37ef21d1e74b)
 
 
 ![image](https://github.com/user-attachments/assets/3cb2589d-a5fb-49ef-a769-6f697e481f5e)
 
-"insetOne"
+Insert document-Using Console ------->         "insetOne"
+
 ![image](https://github.com/user-attachments/assets/34dc4e4a-b851-4797-8d9e-6a94a0e03e9c)
 
 
-"insertmany"
+Insert document-Using Console ------->         "insertmany"
+
 ![image](https://github.com/user-attachments/assets/fc9749be-f967-4e24-ba32-0d4050ff8239)
 
 ![image](https://github.com/user-attachments/assets/3d7c8a12-d790-4f00-9e5d-ec5e6e6368b5)
 
-find()
+Display all documents - Click the button find
+
 ![image](https://github.com/user-attachments/assets/3f8ef486-05e7-4a21-b03f-3959323c927d)
 
 ![image](https://github.com/user-attachments/assets/8d7bcd8d-6f12-4e75-b3ba-0b61bbd36e75)
 
-Find Specific Data
-1.Shows only name (with _id).
+Retrieve specific fields only
+
+1.Shows  name,age (with _id).
 
 ![image](https://github.com/user-attachments/assets/2049b225-3bd6-4a42-9834-9df95355178e)
 
 
-2.Shows name, hides _id field.
+2.Shows name,age  hides _id field.
 
 ![image](https://github.com/user-attachments/assets/2ef7d4be-0694-4d92-be5e-3b3143d340df)
 
 
-Project (Select Specific Fields)
-1.Shows only name (with _id).
+Retrieve documents  using specific value
+
+1.Shows documents which regno "2021ict126" .
+
 ![image](https://github.com/user-attachments/assets/2b2b1c08-09db-481d-b22b-4322423df821)
 
 
 
 ![image](https://github.com/user-attachments/assets/d3ed2612-0d52-48f6-a3c6-f2b0d867458e)
 
-Find the specific data and Shows all documents.
+Retrieve documents  using specific value------>     using console
+
+
+1.Shows documents those are female .
+
 ![image](https://github.com/user-attachments/assets/d1ac9ba5-6512-46b8-8aae-aaf7a1094fee)
 
-Find the specific data and Shows all documents.-"findOne"
+2.Shows documents those are female-------->    "findOne"
 
 ![image](https://github.com/user-attachments/assets/fb08d803-c730-4d5b-bfc1-3694efffa3ab)
 
@@ -116,7 +127,7 @@ Sort in ascending Order ----->using console
 ![image](https://github.com/user-attachments/assets/02b60e34-fa3d-4704-b564-dcb57cda6452)
 
 
-Find who follow csc dgree,sort  gpa in ascending order
+Find who follow csc dgree,sort  gpa in descending order
 
 ![image](https://github.com/user-attachments/assets/eea4a2d0-2c5b-4c9a-aa72-2f471648631d)
 
