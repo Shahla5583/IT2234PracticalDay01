@@ -1,147 +1,75 @@
-Create a database and collection
-![image](https://github.com/user-attachments/assets/4cbd894c-b984-4f08-a319-00e486d26b19)
 
-Show databases
-![image](https://github.com/user-attachments/assets/562a629c-03c5-4b6a-8aab-44e635f2db55)
+                                  Assignment 02
+                                  
 
-use unidb
+1. Create a Database Library.
+2. Create a collection named books. 
+  ![image](https://github.com/user-attachments/assets/379f397f-b35c-4289-8727-536d710cffd3)
 
-![image](https://github.com/user-attachments/assets/b5341675-28ac-463c-9682-5f5dcbe6bab2)
+3. Insert some sample documents into the ‘books’ collection.
+ 
 
-show collections
+![image](https://github.com/user-attachments/assets/4227d2ba-4e1a-45c5-9e4e-0097906f196d)
 
-![image](https://github.com/user-attachments/assets/b7832a50-c81a-493b-b427-0445dfa92747)
 
-Insert document-Using Compass
+![image](https://github.com/user-attachments/assets/ac392558-a516-43ca-bb45-129d4383214f)
 
-![image](https://github.com/user-attachments/assets/27398cf9-42f7-4835-8325-37ef21d1e74b)
 
+![image](https://github.com/user-attachments/assets/3c3781bc-099f-4a0e-933d-223ec2845fa5)
 
-![image](https://github.com/user-attachments/assets/3cb2589d-a5fb-49ef-a769-6f697e481f5e)
 
-Insert document-Using Console ------->         "insertOne"
 
-![image](https://github.com/user-attachments/assets/34dc4e4a-b851-4797-8d9e-6a94a0e03e9c)
+  4. Find all documents in the ‘books’ collection.
 
+ ![image](https://github.com/user-attachments/assets/9d2cfd42-38f4-482b-ace5-f8b2e5095c9b)
 
-Insert document-Using Console ------->         "insertMany"
+ ![image](https://github.com/user-attachments/assets/86f14b31-cb72-447f-a99d-9f215b673562)
 
-![image](https://github.com/user-attachments/assets/fc9749be-f967-4e24-ba32-0d4050ff8239)
+ ![image](https://github.com/user-attachments/assets/f7528f86-9202-49be-976a-047c13344977)
 
-![image](https://github.com/user-attachments/assets/3d7c8a12-d790-4f00-9e5d-ec5e6e6368b5)
 
-Display all documents - Click the button find
 
-![image](https://github.com/user-attachments/assets/3f8ef486-05e7-4a21-b03f-3959323c927d)
+5. Find books published after 1950.
 
-![image](https://github.com/user-attachments/assets/8d7bcd8d-6f12-4e75-b3ba-0b61bbd36e75)
+![image](https://github.com/user-attachments/assets/b625620c-aad8-444d-9896-f96196a26239)
 
-Retrieve specific fields only
+6. Find a book by title.
 
-1.Shows  name,age (with _id).
+![image](https://github.com/user-attachments/assets/9d4025b9-3607-49ab-92f4-ff1527b05a16)
 
-![image](https://github.com/user-attachments/assets/2049b225-3bd6-4a42-9834-9df95355178e)
+7. Update the year published for "The Great Gatsby".
+  
+8. Update the available status of "Moby-Dick" to false.
 
+![image](https://github.com/user-attachments/assets/a7efcadb-1866-491b-869d-51987d931a68)
 
-2.Shows name,age  hides _id field.
+9. Set a new field checked_out to false for all available books.
 
-![image](https://github.com/user-attachments/assets/2ef7d4be-0694-4d92-be5e-3b3143d340df)
+![image](https://github.com/user-attachments/assets/1dd8d027-ac89-4629-89b3-cbdfa4feda3e)
+ 
+10. Change the checked_out status to true for books in the "Adventure" genre.
 
+![image](https://github.com/user-attachments/assets/c2cd6689-15ec-4d69-943d-fa755862419d)
 
-Retrieve documents  using specific value
 
-1.Shows documents which regno "2021ict126" .
+![image](https://github.com/user-attachments/assets/348e5373-659b-4238-be45-fb7484700dbb)
 
-![image](https://github.com/user-attachments/assets/2b2b1c08-09db-481d-b22b-4322423df821)
 
-2.Shows documents those are female.
+![image](https://github.com/user-attachments/assets/73a61971-453f-4914-b979-2f2caafec7cd)
 
-![image](https://github.com/user-attachments/assets/d3ed2612-0d52-48f6-a3c6-f2b0d867458e)
 
-Retrieve documents  using specific value------>     using console
+![image](https://github.com/user-attachments/assets/70e36563-c0f6-4abe-9e68-6b87daf09c3a)
 
 
-1.Shows documents those are male .
+![image](https://github.com/user-attachments/assets/a8b1a32f-685a-4d4c-ac4a-55a1f15b7ac6)
 
-![image](https://github.com/user-attachments/assets/d1ac9ba5-6512-46b8-8aae-aaf7a1094fee)
 
-2.Shows documents those are male-------->    "findOne"
+11. Delete a book by title.
 
-![image](https://github.com/user-attachments/assets/fb08d803-c730-4d5b-bfc1-3694efffa3ab)
+![image](https://github.com/user-attachments/assets/bd779cf4-841c-49e7-8c80-6e8764c134f3)
 
-Sort in ascending Order
+12. Delete all books published before 1930.
 
-![image](https://github.com/user-attachments/assets/0b91d83b-8e4e-407f-bd48-5bef4a908a0f)
+![image](https://github.com/user-attachments/assets/c6f525d6-97ab-42f4-bd74-bdd570d56c53)
 
-![image](https://github.com/user-attachments/assets/e64185e4-1eab-49bd-bd58-057b92043a09)
-
-Sort in descending order
-
-
-![image](https://github.com/user-attachments/assets/911eb70d-148e-4bb5-87e0-6abe3fb6c7de)
-
-Find the documents with comparision
-
-1.Finds people with age greater than 25
-
-
-![image](https://github.com/user-attachments/assets/177ec1be-35ac-440e-bdc7-df903368fc46)
-
-2.Finds people with age less than 25.
-
-![image](https://github.com/user-attachments/assets/bd0a4fd3-1a8a-4896-b261-5e61edfe3227)
-
-3.Finds people with age equal to 25.
-
-![image](https://github.com/user-attachments/assets/3ce88dfe-67c2-418a-bec7-85d6f29eba95)
-
-
-Find  the  documents  using $in,$nin
-
-1.Finds those with "NoSql" skills.
-
-
-![image](https://github.com/user-attachments/assets/01de8d6e-c2a6-4a12-8a04-7132256c19b1)
-
-
-![image](https://github.com/user-attachments/assets/20f51b2d-b4af-47c9-9882-6017cae08e43)
-
-2.Finds those with "NoSql" OR JS  skills.
-![image](https://github.com/user-attachments/assets/a1a07560-0138-4acc-93e6-105f452e9c4c)
-
-
-![image](https://github.com/user-attachments/assets/3c99ffec-7d63-49cb-a227-6e315f1eff5b)
-
-
-3.Finds those without "NoSql" skill.
-
-![image](https://github.com/user-attachments/assets/7dce2f18-e028-4637-8a66-34e27fa34e14)
-
-
-Sort in descending Order ----->using console
-
-
-![image](https://github.com/user-attachments/assets/caeaae56-9802-4127-a553-2d071394f224)
-
-
-![image](https://github.com/user-attachments/assets/02b60e34-fa3d-4704-b564-dcb57cda6452)
-
-
-Find who follow csc dgree,sort their  gpa in ascending order
-
-![image](https://github.com/user-attachments/assets/eea4a2d0-2c5b-4c9a-aa72-2f471648631d)
-
-
-Find CSC male students, sort their  age in descending.
-
-
-![image](https://github.com/user-attachments/assets/8bb738d5-26cc-42ac-bf80-5e741d085787)
-
-
-Find the details with comparision---->using console
-
-![image](https://github.com/user-attachments/assets/7ea5ebed-3e59-4af1-8980-119aae7dae15)
-
-
-
-
+![image](https://github.com/user-attachments/assets/3b93f097-d837-41e8-9e10-043c666cea44)
