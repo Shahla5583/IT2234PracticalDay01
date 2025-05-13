@@ -1,3 +1,4 @@
+
                                   Assignment 02
                                   
 
@@ -72,7 +73,3 @@
 ![image](https://github.com/user-attachments/assets/c6f525d6-97ab-42f4-bd74-bdd570d56c53)
 
 ![image](https://github.com/user-attachments/assets/3b93f097-d837-41e8-9e10-043c666cea44)
-
-
-
-
