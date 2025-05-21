@@ -1,3 +1,12 @@
+
+![image](https://github.com/user-attachments/assets/95ec8d94-02fd-40b2-a53c-76e4f25daf0c)
+![image](https://github.com/user-attachments/assets/11798201-b214-4c6f-9041-6c9f164353d2)
+![image](https://github.com/user-attachments/assets/4d20ecc2-f42d-47eb-841b-7b6f62a4d792)
+
+
+                                   Test with Postman
+
+
 1. Create the students and grades collections and insert the sample documents into both collections.
 
 ![image](https://github.com/user-attachments/assets/4100966d-4190-4b4b-906d-8bdbfe03ca43)
@@ -44,18 +53,5 @@
 ![image](https://github.com/user-attachments/assets/98a1282a-4eed-4208-a32a-5a748d03c962)
 
 ![image](https://github.com/user-attachments/assets/92ba38a9-77e1-4bd7-97f9-618eaf635850)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
