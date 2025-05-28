@@ -49,7 +49,14 @@ projectRoute.js
 
 ![image](https://github.com/user-attachments/assets/918b519a-d753-415a-9699-0557e1cb26ef)
 
-3.
+3.Retrive the names in Employee.js
+http://localhost:3001/employee/names
+
+employeeRoute.js
+![image](https://github.com/user-attachments/assets/3f91e06a-d339-42bb-8c35-62b8d0be7860)
+
+![image](https://github.com/user-attachments/assets/0d17a67d-2c82-41c7-979f-d23908f55abc)
+
 
 
 
