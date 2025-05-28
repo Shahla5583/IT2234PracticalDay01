@@ -1,57 +1,65 @@
 
-![image](https://github.com/user-attachments/assets/95ec8d94-02fd-40b2-a53c-76e4f25daf0c)
-![image](https://github.com/user-attachments/assets/11798201-b214-4c6f-9041-6c9f164353d2)
-![image](https://github.com/user-attachments/assets/4d20ecc2-f42d-47eb-841b-7b6f62a4d792)
+1.Insert all documents into employee collection
+
+![image](https://github.com/user-attachments/assets/78f75e0e-cb60-4eda-9947-0cebfe91cfd3)
+
+In MongoDB
+![image](https://github.com/user-attachments/assets/e388dbc1-d54f-4e3c-8d80-b2b52c254bdd)
 
 
-                                   Test with Postman
+2.Insert all documents into department collection
+
+![image](https://github.com/user-attachments/assets/575840ba-3938-4598-b523-426f19038b15)
+
+In MongoDB
+![image](https://github.com/user-attachments/assets/083c6f44-ede1-4d8b-9567-1f49d8afd5f0)
 
 
-1. Create the students and grades collections and insert the sample documents into both collections.
+3.Insert all documents into project collection
 
-![image](https://github.com/user-attachments/assets/4100966d-4190-4b4b-906d-8bdbfe03ca43)
+![image](https://github.com/user-attachments/assets/bee2e37d-8f0e-4c72-9af9-5dd7937663e5)
 
-![image](https://github.com/user-attachments/assets/386962ee-d4c6-4665-8a6c-fdc0a61041c9)
+In MongoDB
+![image](https://github.com/user-attachments/assets/179a1689-7a13-4099-a4e3-2ec089a8358a)
 
-![image](https://github.com/user-attachments/assets/724a7b5b-83b0-4e23-8aba-d76b2fe5fc7a)
+4.Insert all documents into etf collection
 
-![image](https://github.com/user-attachments/assets/88db7515-3d49-4baf-aec9-05f1ef50c29c)
+![image](https://github.com/user-attachments/assets/f4346475-3952-4ca8-beff-9c85823c53b9)
 
-2. Show both collections in table view.
+In MongoDB
 
-![image](https://github.com/user-attachments/assets/ce0850f0-8752-4e8b-b343-6b235019c202)
+1.Find a department with the name "IT" and then return all employees who belong to that department.
+http://localhost:3001/department/by-name?name=IT
 
-![image](https://github.com/user-attachments/assets/409cbb31-d4c3-44de-8277-a5972e5f7630)
-![image](https://github.com/user-attachments/assets/44e957df-7f36-42fd-b7b6-68793824804f)
+departmentRoute.js
+![image](https://github.com/user-attachments/assets/432473c0-275e-409b-87ce-17370705a528)
+
+employeeRoute.js
+![image](https://github.com/user-attachments/assets/d9778240-b6be-4886-b9e9-03c4df1ea9bd)
+
+![image](https://github.com/user-attachments/assets/b5ec1f78-c3ce-4422-8e62-85cec99d3dae)
+
+2.Find a employee  with the name "Bob" and then return all projects he did.
+http://localhost:3001/employee/by-name?name=Bob
+
+employeeRoute.js
+![image](https://github.com/user-attachments/assets/7d0ffd40-0a39-4546-a47f-a4571c1d645d)
+
+projectRoute.js
+![image](https://github.com/user-attachments/assets/1576318d-ad7b-451c-9031-fca3880fdc49)
+
+![image](https://github.com/user-attachments/assets/918b519a-d753-415a-9699-0557e1cb26ef)
+
+3.Retrive the names in Employee.js
+http://localhost:3001/employee/names
+
+employeeRoute.js
+![image](https://github.com/user-attachments/assets/3f91e06a-d339-42bb-8c35-62b8d0be7860)
+
+![image](https://github.com/user-attachments/assets/0d17a67d-2c82-41c7-979f-d23908f55abc)
 
 
-3. Find the female students and only display their name, age and gender.
-
-![image](https://github.com/user-attachments/assets/9c245672-ba05-42c5-8544-ac93a980ca80)
-
-4. Find the students who are younger than 22 and enrolled after 2020.
-
-![image](https://github.com/user-attachments/assets/a2d1c4a2-8a5f-4bf5-a85a-517545480332)
-
-![image](https://github.com/user-attachments/assets/e1ad72b0-0492-4986-ab5a-bd20734ae2b4)
-
-5. Find all grades for "Alice Johnson".
-
-![image](https://github.com/user-attachments/assets/f7c5eef2-71b3-4338-87ae-8fb45914ed96)
-
-6. Find how many students followed the subject “Mathematics”.
-
-![image](https://github.com/user-attachments/assets/6c74a54c-8f1b-487c-bec6-890aed3d0c26)
-
-7.Find all students with grades in the term "Fall 2022".
 
 
-![image](https://github.com/user-attachments/assets/af57f75a-723e-497b-83a8-343190834ba1)
-
-![image](https://github.com/user-attachments/assets/f46305c0-5316-43d5-bf51-1c895ed19aee)
-
-![image](https://github.com/user-attachments/assets/98a1282a-4eed-4208-a32a-5a748d03c962)
-
-![image](https://github.com/user-attachments/assets/92ba38a9-77e1-4bd7-97f9-618eaf635850)
 
 
