@@ -26,6 +26,17 @@ In MongoDB
 ![image](https://github.com/user-attachments/assets/f4346475-3952-4ca8-beff-9c85823c53b9)
 
 In MongoDB
+
+1.find a department with the name "IT" and then return all employees who belong to that department.
+http://localhost:3001/department/by-name?name=IT
+
+departmentRoute.js
+![image](https://github.com/user-attachments/assets/432473c0-275e-409b-87ce-17370705a528)
+
+employeeRoute.js
+![image](https://github.com/user-attachments/assets/d9778240-b6be-4886-b9e9-03c4df1ea9bd)
+
+
 ![image](https://github.com/user-attachments/assets/a971fe28-0d7f-4cc9-a933-db12fb9367fe)
 
 ![image](https://github.com/user-attachments/assets/b5ec1f78-c3ce-4422-8e62-85cec99d3dae)
