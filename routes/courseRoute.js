@@ -3,7 +3,11 @@ const router=express.Router()
 const Course=require('../models/Course')
 const { default: mongoose } = require('mongoose')
 
+
 router.get('/',async (req,res)=>{
+
+router.get('/names',async (req,res)=>{
+
     try{
         const results = await Course.find() //- Fetches all courses from the database.
 
