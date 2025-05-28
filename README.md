@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/ca557089-9bf4-460f-a1fb-f2774e619ad2)
-![image](https://github.com/user-attachments/assets/a217bb54-a6c5-42d7-95ab-a74a6747be73)
-![image](https://github.com/user-attachments/assets/0f91d40f-6b35-447a-b6de-85c92edf719c)
 
 1.Insert all documents into employee collection
 
