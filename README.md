@@ -27,7 +27,7 @@ In MongoDB
 
 In MongoDB
 
-1.find a department with the name "IT" and then return all employees who belong to that department.
+1.Find a department with the name "IT" and then return all employees who belong to that department.
 http://localhost:3001/department/by-name?name=IT
 
 departmentRoute.js
@@ -36,10 +36,22 @@ departmentRoute.js
 employeeRoute.js
 ![image](https://github.com/user-attachments/assets/d9778240-b6be-4886-b9e9-03c4df1ea9bd)
 
-
-![image](https://github.com/user-attachments/assets/a971fe28-0d7f-4cc9-a933-db12fb9367fe)
-
 ![image](https://github.com/user-attachments/assets/b5ec1f78-c3ce-4422-8e62-85cec99d3dae)
+
+2.Find a employee  with the name "Bob" and then return all projects he did.
+http://localhost:3001/employee/by-name?name=Bob
+
+employeeRoute.js
+![image](https://github.com/user-attachments/assets/7d0ffd40-0a39-4546-a47f-a4571c1d645d)
+
+projectRoute.js
+![image](https://github.com/user-attachments/assets/1576318d-ad7b-451c-9031-fca3880fdc49)
+
+![image](https://github.com/user-attachments/assets/918b519a-d753-415a-9699-0557e1cb26ef)
+
+3.
+
+
 
 
 
