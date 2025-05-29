@@ -1,3 +1,15 @@
+1. Q4==> Finds all employees where departmentID matches id.
+          Selects only the name and departmentID fields.
+          Populates departmentID to replace it with the actual department document (so you can access its name).
+          Sorts employees by their name in descending order (-1).
+          Maps each result to a simplified object with:
+          employee_id,employee_name,department_name -Returns the filtered result as JSON.
+   
+   employeeRoute.js
+   ![image](https://github.com/user-attachments/assets/c64fe741-5c9c-4bde-b4e6-7a5d24ffd570)
+   http://localhost:3001/employee/emp/dep02
+  ![image](https://github.com/user-attachments/assets/13248de1-28f6-41cb-b2b2-2ef1f6363a94)
+
 
 2. Q5===> Returns a summary of all employees, including their employee ID, name, and the name of the department they belong to. 
   employeeRoute.js
@@ -5,7 +17,7 @@
   http://localhost:3001/employee/summary
   ![image](https://github.com/user-attachments/assets/cdd361e0-6ef7-42e2-b783-73aeed41a7d7)
 
-4. Q6==> Find how many employees are working in a  department
+3. Q6==> Find how many employees are working in a  department
    departmentRoute.js
    ![image](https://github.com/user-attachments/assets/c04e6a60-c702-4f6b-8633-dd9b78986b13)
    http://localhost:3001/department/empcount
